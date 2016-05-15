@@ -5,10 +5,10 @@ class Sourcing
   def initialize(arguments)
 
     # @client = Twitter::REST::Client.new do |config|
-    #   config.consumer_key        = "11AalVKHieDRCx9SlDcEyt2Tp"
-    #   config.consumer_secret     = "hD4cC7yJuQGt4khpaieQWMtA8rrGhtGbWGPNeAAzS31sRvYSYn"
-    #   config.access_token        = "4864258233-J6fMZlvuHg45XyrlK1frGM86j875Ta3LR8Jv9fG"
-    #   config.access_token_secret = "dAWesD89G6ZuxISj8uRveaYzwDBd8J3IBuTgVrYB4eE5O"
+    #   config.consumer_key        = ""
+    #   config.consumer_secret     = ""
+    #   config.access_token        = ""
+    #   config.access_token_secret = ""
     # end
 
     @cible_id = 1   #arguments [:cible]
